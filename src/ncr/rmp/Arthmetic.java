@@ -6,9 +6,8 @@ public class Arthmetic {
 		// TODO Auto-generated method stub
 		int a = 22;
 		int b =36;
-        System.out.println("A+B="+(a+b));
-        System.out.println("A-B="+(a-b));
-        System.out.println("A*B="+(a*b));
+        System.out.println("A + B="+(a+b));
+        System.out.println("A - B="+(a-b));
+        System.out.println("A * B="+(a*b));
 	}
-
 }
